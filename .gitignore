@@ -2,3 +2,4 @@ jet_data/
 meeting/
 pennylane_example/
 reference/
+__pycache__/
